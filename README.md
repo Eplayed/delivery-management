@@ -1,3 +1,12 @@
+# 参与者
+1. Fork 本仓库
+2. git clone git@github.com:/atom-flight-manual-chinese.git
+3. git checkout -b
+4. git push origin
+5. 创建一个 Pull Request
+
+---
+
 English | [简体中文](./README.zh-CN.md)
 
 # Ant Design Pro
